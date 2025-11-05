@@ -1,10 +1,4 @@
-Awesome—here’s a clean, Phase-1–ready **README.md** that merges your draft, adds a crisper **Innovation in Hypotheses** section (with measurable tests), folds in the extra dataset links, and expands references. I also added quick setup notes, a lightweight repo structure, and a Phase-1 deliverables checklist so it aligns with the course brief and rubric.
-
-> You can paste this directly into `README.md`.
-
----
-
-# ⚡ Electricity Grid Resilience: Data-Driven Resource Allocation & Supply Chain Enhancement
+### ⚡ Electricity Grid Resilience: Data-Driven Resource Allocation & Supply Chain Enhancement
 
 ## 🧠 Project Overview
 
@@ -165,11 +159,5 @@ We operationalize **Network Interdiction Problems (NIPs)** on a **weighted, dire
 * Woodruff, D. P. (2015). Network interdiction and games. **Operations Research**.
 
 
-
----
-
-## ✨ Attribution
-
-This Phase-1 plan integrates classic energy-economics theory with modern **graph + ML** tooling to propose falsifiable resilience hypotheses and a practical, extensible pipeline for subsequent phases.
 
 ---
